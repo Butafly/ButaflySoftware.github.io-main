@@ -153,6 +153,56 @@ h1 {
 /*end glitch*/
 /*start glitch h2*/
 
+/*sterps section*/
+#steps > div > div > div:nth-child(2) {
+  display: flex;
+}
+
+#steps {
+  padding: 11rem 8rem;
+}
+div.container-first{
+  font-size: 18px;
+}
+
+div.container-first img {
+color:blue;
+width:69px;
+height: auto;
+}
+
+#steps > div > div > div:nth-child(1) {
+  margin-bottom: 4rem;
+  grid-column-gap: 2em;
+}
+
+#steps > div > div > div:nth-child(2) > div:nth-child(1) > div > div > div > h3 {
+  line-height: 58px;
+  font-size: 1.6rem;
+}
+
+#steps > div > div > div:nth-child(2) > div:nth-child(1) > div > div > div {
+  width: 50vh;
+}
+
+#steps > div > div > div:nth-child(2) > div:nth-child(2) > div > div > div > h3 {
+  line-height: 58px;
+  font-size: 1.6rem;
+}
+#steps > div > div > div:nth-child(2) > div:nth-child(2) > div > div > div {
+  width: 50vh;
+}
+#steps > div > div > div:nth-child(2) > div:nth-child(3) > div > div > div {
+  line-height: 58px;
+  font-size: 1.6rem;
+}
+#steps > div > div > div:nth-child(2) > div:nth-child(3) > div > div > div {
+  width: 50vh;
+}
+
+/*end sterps section scc*/
+
+
 #navbarNavDropdown > ul > li:nth-child(2) {
   color:black;
   cursor: pointer;
@@ -1015,7 +1065,7 @@ span.label-icon {
   background-color: #0d0d0e;
 }
 
-h3 {
+h4 {
     font-family: 'Roboto',sans-serif;
     font-size: 1.9rem;
     font-weight: 900;
@@ -1026,7 +1076,7 @@ h3 {
 }
 
 @media (min-width: 600px){
-h3 {
+h4 {
   
     line-height: 58px;
     font-size: 3.6rem;
