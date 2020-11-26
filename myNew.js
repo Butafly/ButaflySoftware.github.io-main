@@ -1,3 +1,20 @@
+    
+  
+    window.productHuntUpcoming = {
+      appId: 111390,
+      position: 'bottomLeft',
+    };
+  
+    (function(doc, scr, src, a, b) {
+      a = doc.createElement(scr);
+      b = doc.getElementsByTagName(scr)[0];
+      a.async = true;
+      a.src = src;
+      b.parentNode.insertBefore(a, b);
+    })(document, 'script', 'https://assets.producthunt.com/assets/upwigloader.js');
+  
+    
+    
     function detect_active(){
         // get active
         var get_active = $("#dp-slider .dp_item:first-child").data("class");
