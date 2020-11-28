@@ -401,15 +401,15 @@ a.link-btn {
 }
 
 div.blur {
-  background: rgb(255 255 255 / 0%);
-  backdrop-filter: blur(0px);
-  height: 50rem;
-  width: 60rem;
-  z-index: 1;
-  box-shadow: 2px 0px 20px 0px #a0a0a0;
-  position: relative;
-  bottom: 357px;
-  left: -296px;
+    background: rgb(255 255 255 / 0%);
+    backdrop-filter: blur(0px);
+    height: 50rem;
+    width: 52rem;
+    z-index: 1;
+    box-shadow: 2px 0px 20px 0px #a0a0a0;
+    position: relative;
+    bottom: 357px;
+    left: -372px;
 
 }
 
