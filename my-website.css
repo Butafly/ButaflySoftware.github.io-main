@@ -586,7 +586,7 @@ div.Text {
 
 body > main > section > div.video{
     overflow: hidden;
-    border-radius: 5%;
+    border-radius: none;
 }
 div.video {
     display: flex;
@@ -690,7 +690,7 @@ p {
   margin: -1em 12em 0em 0em;
   width: 100%;
   /*height: var(--marquee-height);*/
-  background-color: rgb(252, 245, 245);
+  background-color: #1c1b29;
   color: #eee;
   overflow: hidden;
   position: relative;
@@ -731,13 +731,15 @@ p {
   width: 100%;
  
 }
-
+.marquee > li {
+  padding:10px;
+}
 .marquee {
   width: 59%;
   margin: -2em 0em 0em 0em;
   /*width: var(--marquee-width);
   height: var(--marquee-height);*/
-  background-color: rgb(255, 247, 247);
+  background-color: #1c1b29;
   color: #eee;
   overflow: hidden;
   position: relative;
@@ -752,12 +754,13 @@ p {
 }
 
 .marquee:before {
+  height: 80%;
   left: 0;
-  background: linear-gradient(to right, rgb(245, 245, 245) 0%, transparent 100%);
+  background: linear-gradient(to right, #1c1b29 0%, transparent 100%);
 }
 .marquee:after {
   right: 0;
-  background: linear-gradient(to left, rgb(245, 245, 245) 0%, transparent 100%);
+  background: linear-gradient(to left, #1c1b29 0%, transparent 100%);
 }
 .marquee-content {
   list-style: none;
@@ -784,7 +787,7 @@ p {
 }
 .div-block-299 {
     margin-top:25px;
-    left: 892px;
+    left: 910px;
     text-align: left;
     top: -300px;
     z-index: 5;
