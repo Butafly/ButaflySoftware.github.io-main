@@ -399,6 +399,10 @@ a.link-btn {
     width: 100%;
     z-index: 1;
 }
+#mockup-2 > div > div.col-sm-8 > img {
+  width: 100%;
+  z-index: 1;
+}
 
 div.blur {
     background: rgb(255 255 255 / 0%);
@@ -412,8 +416,35 @@ div.blur {
     left: -372px;
 
 }
+div.blur-2 {
+  background: rgb(255 255 255 / 0%);
+  backdrop-filter: blur(0px);
+  height: 50rem;
+  width: 52rem;
+  z-index: 1;
+  box-shadow: 2px 0px 20px 0px #a0a0a0;
+  position: relative;
+  bottom: 357px;
+  left: -372px;
 
+}
+
+div.blur-3 {
+    background: rgb(255 255 255 / 0%);
+    backdrop-filter: blur(0px);
+    height: 32rem;
+    width: 39rem;
+    z-index: 1;
+    box-shadow: 2px 0px 20px 0px #a0a0a0;
+    position: relative;
+    bottom: 671px;
+    left: 895px;
+
+}
   #mockup-1 > div > div.col-6.col-md-4 {
+    padding: 50px;
+  }
+  #mockup-2 > div > div.col-6.col-md-4 {
     padding: 50px;
   }
 
