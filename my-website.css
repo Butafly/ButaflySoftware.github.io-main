@@ -224,6 +224,11 @@ height: auto;
 /*end sterps section scc*/
 
 
+#navbarNav > ul > li.nav-item.dropdown {
+  margin-left: 62rem;
+}
+
+
 #navbarNavDropdown > ul > li:nth-child(2) {
   color:black;
   cursor: pointer;
@@ -313,9 +318,10 @@ height: auto;
 }
 
 #searchBtn {
+  background-color: #1c1c1d!important;
   position: absolute;
   right: 206px;
-  padding: 20px 32px;
+  padding: 15px 32px;
 
 }
 
@@ -464,7 +470,7 @@ a.link-btn {
     box-shadow: 2px 0px 20px 0px #a0a0a0;
     position: absolute;
     left: 16px;
-    top: 73px;
+    top: 116px;
   
 }
 
@@ -753,6 +759,53 @@ p {
 #mc_embed_signup {
   padding:70px;
 }
+/*navbar search talents*/
+.form-inline .form-control{
+  display: inline-block;
+  width: 24em;
+  vertical-align: middle;
+}
+ 
+.btn-outline-success {
+  color:black;
+  
+}
+
+
+body > nav > form > button {
+  color: rgb(24, 23, 23);
+  outline-style: none;
+  background-color: rgb(233, 233, 233)!important;
+  padding: 14px!important;
+  border: none!important;
+  position: relative;
+  right: 26px;
+  width: 9em;
+}
+
+body > nav > form > button:active {
+    padding: 14px;
+    border: none;
+    position: relative;
+    right: 26px;
+    width: 9em;
+    color: #fff!important;
+    background-color: #131213!important;
+    border-color: #131212!important;
+}
+
+body > nav > form > button:focus{
+  box-shadow: none!important;
+}
+
+body > nav > form > button:hover {
+  border:none!important;
+  color: rgb(248, 248, 248);
+  outline-style: none;
+  background-color: black!important;
+}
+
+/*end search talents*/
 
 #form p {
   text-align: center;
