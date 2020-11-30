@@ -75,4 +75,3 @@
         marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
       }
     
-     
