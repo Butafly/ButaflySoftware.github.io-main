@@ -1,12 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2091" height="1373" viewBox="0 0 2091 1373">
   <defs>
-    <filter id="Rectangle_146340" x="1244" y="707" width="201" height="194" filterUnits="userSpaceOnUse">
-      <feOffset dx="6" dy="19" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
     <linearGradient id="linear-gradient" x1="0.5" y1="-0.622" x2="0.5" y2="0.749" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#ff958f"/>
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
@@ -17,16 +10,16 @@
     </linearGradient>
     <filter id="Area" x="1594.499" y="903.5" width="131" height="131" filterUnits="userSpaceOnUse">
       <feOffset dy="15" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
       <feFlood flood-color="#7c7575" flood-opacity="0.302"/>
-      <feComposite operator="in" in2="blur-2"/>
+      <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Area-2" x="1961.5" y="744.5" width="121" height="121" filterUnits="userSpaceOnUse">
       <feOffset dy="15" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="12.5" result="blur-3"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
       <feFlood flood-color="#7c7575" flood-opacity="0.302"/>
-      <feComposite operator="in" in2="blur-3"/>
+      <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 600">
@@ -34,23 +27,23 @@
     </pattern>
     <filter id="Ellipse_11617" x="1607" y="914" width="44" height="44" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
       <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-4"/>
+      <feComposite operator="in" in2="blur-3"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Area-3" x="1757.999" y="952" width="74" height="75.217" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
       <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-5"/>
+      <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Area-4" x="1862.001" y="938" width="125" height="125" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="9" result="blur-6"/>
+      <feGaussianBlur stdDeviation="9" result="blur-5"/>
       <feFlood flood-color="#a7a5a5" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-6"/>
+      <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 267">
@@ -58,16 +51,16 @@
     </pattern>
     <filter id="Ellipse_11632" x="1510" y="1114" width="30" height="30" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
       <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-7"/>
+      <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Rectangle_146259" x="1445" y="1238" width="94" height="93" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
       <feFlood flood-color="#c4c4c4" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-8"/>
+      <feComposite operator="in" in2="blur-7"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 600">
@@ -75,9 +68,9 @@
     </pattern>
     <filter id="Ellipse_11620" x="1452" y="503" width="49" height="48" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1" result="blur-9"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
       <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-9"/>
+      <feComposite operator="in" in2="blur-8"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 600">
@@ -85,9 +78,9 @@
     </pattern>
     <filter id="Ellipse_11620-2" x="1452" y="571" width="49" height="50" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1" result="blur-10"/>
+      <feGaussianBlur stdDeviation="1" result="blur-9"/>
       <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-10"/>
+      <feComposite operator="in" in2="blur-9"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 400 600">
@@ -95,30 +88,30 @@
     </pattern>
     <filter id="Ellipse_11620-3" x="1452" y="641" width="49" height="49" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1" result="blur-11"/>
+      <feGaussianBlur stdDeviation="1" result="blur-10"/>
       <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-11"/>
+      <feComposite operator="in" in2="blur-10"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Ellipse_11627" x="1475" y="499" width="34" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11628" x="1475" y="564" width="34" height="34" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-12"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-12"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Ellipse_11628" x="1475" y="564" width="34" height="34" filterUnits="userSpaceOnUse">
+    <filter id="Ellipse_11629" x="1475" y="630" width="34" height="33" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-13"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-13"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Ellipse_11629" x="1475" y="630" width="34" height="33" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-14"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-14"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.622" x2="0.5" y2="0.749" gradientUnits="objectBoundingBox">
@@ -130,15 +123,22 @@
     </pattern>
     <filter id="ApplicationFrameHost_VBtjPNuTCq" x="1452" y="759" width="54" height="54" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1" result="blur-15"/>
+      <feGaussianBlur stdDeviation="1" result="blur-14"/>
       <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-15"/>
+      <feComposite operator="in" in2="blur-14"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <filter id="Area-5" x="1904.5" y="735.5" width="115" height="115" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="11.5" result="blur-16"/>
+      <feGaussianBlur stdDeviation="11.5" result="blur-15"/>
       <feFlood flood-color="#bbb" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Intersection_1" x="1194" y="658" width="204" height="196.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-16"/>
+      <feFlood flood-color="#e7e7e7" flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-16"/>
       <feComposite in="SourceGraphic"/>
     </filter>
@@ -203,12 +203,6 @@
     </g>
     <line id="Line_7" data-name="Line 7" x2="447" transform="translate(987.5 247.5)" fill="none" stroke="#b6b6b6" stroke-width="1" opacity="0"/>
     <line id="Line_8" data-name="Line 8" x2="447" transform="translate(987.5 303.5)" fill="none" stroke="#b6b6b6" stroke-width="1" opacity="0"/>
-    <g id="Group_73460" data-name="Group 73460" transform="translate(162.013 -104.637)">
-      <g transform="matrix(1, 0, 0, 1, -162.01, 104.64)" filter="url(#Rectangle_146340)">
-        <rect id="Rectangle_146340-2" data-name="Rectangle 146340" width="153" height="146" rx="5" transform="translate(1262 712)" fill="#1a1818"/>
-      </g>
-      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M43.853,49.334A24.667,24.667,0,1,0,19.186,24.667,24.674,24.674,0,0,0,43.853,49.334Zm21.926,5.482H56.341a29.819,29.819,0,0,1-24.976,0H21.926A21.925,21.925,0,0,0,0,76.742v2.741a8.225,8.225,0,0,0,8.222,8.222H79.483a8.225,8.225,0,0,0,8.222-8.222V76.742A21.925,21.925,0,0,0,65.779,54.816Z" transform="translate(1132.963 845.566)" fill="#ff958f"/>
-    </g>
     <path id="Path_26659" data-name="Path 26659" d="M0,0H1415V326.887H0Z" transform="translate(0 858)" fill="#fff"/>
     <text id="Build_a_Post_a_Project_modal_in_React._We_ll_POST_your_new_projects_to_Workyard_staging_API._" data-name="Build a &quot;Post a Project&quot; modal in React. We&apos;ll POST your new projects to &quot;Workyard&quot; staging API.
  " transform="translate(46 885)" fill="#474748" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="26">Build a &quot;Post a Project&quot; modal in React. </tspan></text>
@@ -260,7 +254,7 @@
         <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M5.252,15.882.226,10.856a.773.773,0,0,1,0-1.093L1.32,8.669a.773.773,0,0,1,1.093,0L5.8,12.055,13.05,4.8a.773.773,0,0,1,1.093,0L15.236,5.9a.773.773,0,0,1,0,1.093L6.345,15.882A.773.773,0,0,1,5.252,15.882Z" transform="translate(639.568 924.157)" fill="#5372ff"/>
       </g>
     </g>
-    <g id="Group_73353" data-name="Group 73353" transform="translate(-1325 -792)">
+    <g id="Group_73353" data-name="Group 73353" transform="translate(-1334 -833)">
       <g id="Group_73345" data-name="Group 73345" transform="translate(1347 842)">
         <g id="Rectangle_146247" data-name="Rectangle 146247" fill="none" stroke="#980514" stroke-width="1">
           <rect width="178" height="52" rx="4" stroke="none"/>
@@ -517,6 +511,15 @@
           </g>
         </g>
       </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_1)">
+      <path id="Intersection_1-2" data-name="Intersection 1" d="M114.884,308q-2.5-2.433-4.884-5V121.676q2.218-2.392,4.553-4.676H300.217q4.065,3.977,7.783,8.289v174.1q-3.866,4.485-8.114,8.612Z" transform="translate(1087 543)" fill="url(#pattern-6)"/>
+    </g>
+    <g id="Group_73485" data-name="Group 73485" transform="translate(-76 -833)">
+      <g id="Group_73345-2" data-name="Group 73345" transform="translate(1347 842)">
+        <rect id="Rectangle_146247-2" data-name="Rectangle 146247" width="113" height="52" rx="4" fill="#f15868"/>
+      </g>
+      <text id="LIVE" transform="translate(1374.052 877.487)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">LIVE</tspan></text>
     </g>
   </g>
 </svg>
