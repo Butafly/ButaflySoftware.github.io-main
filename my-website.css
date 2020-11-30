@@ -185,13 +185,12 @@ div.container-first{
 }
 
 div.container-first img {
-color:blue;
-width:69px;
+width:7em;
 height: auto;
 }
 
 #steps > div > div > div:nth-child(1) {
-  margin-bottom: 4rem;
+  margin-bottom: 6rem;
   grid-column-gap: 2em;
 }
 

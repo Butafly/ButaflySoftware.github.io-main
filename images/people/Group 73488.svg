@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221" height="114" viewBox="0 0 221 114">
+  <defs>
+    <filter id="Rectangle_146247" x="0" y="0" width="221" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#727272" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_73488" data-name="Group 73488" transform="translate(-1323 -837)">
+    <g id="Group_73345" data-name="Group 73345" transform="translate(1347 842)">
+      <g transform="matrix(1, 0, 0, 1, -24, -5)" filter="url(#Rectangle_146247)">
+        <rect id="Rectangle_146247-2" data-name="Rectangle 146247" width="173" height="66" rx="4" transform="translate(24 5)" fill="#f15868"/>
+      </g>
+    </g>
+    <text id="LIVE" transform="translate(1371.104 884.586)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">LIVE</tspan></text>
+    <text id="_50:40" data-name="50:40" transform="translate(1433.104 884.586)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">50:40</tspan></text>
+  </g>
+</svg>

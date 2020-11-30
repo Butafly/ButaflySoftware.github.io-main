@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="145" viewBox="0 0 148 145">
+  <defs>
+    <filter id="Rectangle_146345" x="32" y="31" width="116" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#727272" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_146329" x="0" y="0" width="116" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#727272" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_73487" data-name="Group 73487" transform="translate(-8163.48 -2957.249)">
+    <g id="Group_73486" data-name="Group 73486" transform="translate(8215.32 2995.166)">
+      <g transform="matrix(1, 0, 0, 1, -51.84, -37.92)" filter="url(#Rectangle_146345)">
+        <g id="Rectangle_146345-2" data-name="Rectangle 146345" transform="translate(52 38)" fill="#1a1818" stroke="#65617d" stroke-width="2">
+          <rect width="64" height="62" stroke="none"/>
+          <rect x="-1" y="-1" width="66" height="64" fill="none"/>
+        </g>
+      </g>
+      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M18.069,20.328A10.164,10.164,0,1,0,7.905,10.164,10.166,10.166,0,0,0,18.069,20.328ZM27.1,22.586H23.214a12.287,12.287,0,0,1-10.291,0H9.035A9.034,9.034,0,0,0,0,31.621V32.75a3.389,3.389,0,0,0,3.388,3.388H32.75a3.389,3.389,0,0,0,3.388-3.388V31.621A9.034,9.034,0,0,0,27.1,22.586Z" transform="translate(14.539 13.097)" fill="#51efde"/>
+    </g>
+    <g id="Group_73458" data-name="Group 73458" transform="translate(8183 2964)">
+      <g transform="matrix(1, 0, 0, 1, -19.52, -6.75)" filter="url(#Rectangle_146329)">
+        <g id="Rectangle_146329-2" data-name="Rectangle 146329" transform="translate(20 7)" fill="#1a1818" stroke="#65617d" stroke-width="2">
+          <rect width="64" height="62" stroke="none"/>
+          <rect x="-1" y="-1" width="66" height="64" fill="none"/>
+        </g>
+      </g>
+      <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" d="M18.069,20.328A10.164,10.164,0,1,0,7.905,10.164,10.166,10.166,0,0,0,18.069,20.328ZM27.1,22.586H23.214a12.287,12.287,0,0,1-10.291,0H9.035A9.034,9.034,0,0,0,0,31.621V32.75a3.389,3.389,0,0,0,3.388,3.388H32.75a3.389,3.389,0,0,0,3.388-3.388V31.621A9.034,9.034,0,0,0,27.1,22.586Z" transform="translate(14.539 13.097)" fill="#ff958f"/>
+    </g>
+  </g>
+</svg>
