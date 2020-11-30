@@ -406,14 +406,27 @@ a.link-btn {
  div.blur-3 {
   background: rgb(255 255 255 / 0%);
   backdrop-filter: blur(0px);
-  height: 100%;
-  width: 100%;
+  height: 34rem;
+  width: 39rem;
   z-index: 1;
   box-shadow: 2px 0px 20px 0px #a0a0a0;
-  position: absolute;
-  left: 40px;
-  
+  position: relative;
+  left: 895px;
+  top: -45rem;
 
+}
+
+ div.blur-4 {
+    background: rgb(255 255 255 / 0%);
+    backdrop-filter: blur(0px);
+    height: 76%;
+    width: 44%;
+    z-index: 1;
+    box-shadow: 2px 0px 20px 0px #a0a0a0;
+    position: absolute;
+    left: 16px;
+    top: 73px;
+  
 }
 
 #mockup-1 > div > div.col-sm-8 > img {

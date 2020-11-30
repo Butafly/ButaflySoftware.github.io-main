@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2091" height="1349" viewBox="0 0 2091 1349">
+  <defs>
+    <filter id="Rectangle_146340" x="1244" y="707" width="201" height="194" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-unlock_streams_1">
+      <rect width="2091" height="1349"/>
+    </clipPath>
+  </defs>
+  <g id="unlock_streams_1" data-name="unlock streams – 1" clip-path="url(#clip-unlock_streams_1)">
+    <rect width="2091" height="1349" fill="#f5f5f5"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(159 -125.989)">
+      <g id="Screens" transform="translate(-159.464 126.525)">
+        <rect id="Rectangle_146279" data-name="Rectangle 146279" width="1434.964" height="857.939" fill="#1c1b29"/>
+        <rect id="Rectangle_146281" data-name="Rectangle 146281" width="46.318" height="16.864" transform="translate(268.558 136.025)" fill="#ebebeb"/>
+        <rect id="Rectangle_146282" data-name="Rectangle 146282" width="531.441" height="16.864" transform="translate(361.042 136.025)" fill="#ebebeb"/>
+        <rect id="Rectangle_146283" data-name="Rectangle 146283" width="88.004" height="16.864" transform="translate(938.785 136.025)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146284" data-name="Rectangle 146284" width="88.004" height="16.864" transform="translate(1158.24 361.589)" fill="#ebebeb"/>
+        <rect id="Rectangle_146285" data-name="Rectangle 146285" width="152.114" height="16.864" transform="translate(1053.371 136.025)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146286" data-name="Rectangle 146286" width="46.318" height="16.864" transform="translate(317 181.126)" fill="#ebebeb"/>
+        <rect id="Rectangle_146287" data-name="Rectangle 146287" width="348.757" height="16.864" transform="translate(404.583 181.126)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146288" data-name="Rectangle 146288" width="204.213" height="16.864" transform="translate(917.885 361.589)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146289" data-name="Rectangle 146289" width="333.137" height="16.864" transform="translate(356.479 316.458)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146290" data-name="Rectangle 146290" width="233.697" height="16.864" transform="translate(402.33 226.226)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146291" data-name="Rectangle 146291" width="89.154" height="16.864" transform="translate(1000.407 271.357)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146292" data-name="Rectangle 146292" width="373.193" height="16.864" transform="translate(680.312 226.226)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146293" data-name="Rectangle 146293" width="445.481" height="16.864" transform="translate(358.825 361.589)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146294" data-name="Rectangle 146294" width="241.427" height="16.864" transform="translate(1054.297 181.126)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146295" data-name="Rectangle 146295" width="222.261" height="16.864" transform="translate(792.059 181.126)" fill="#ebebeb"/>
+        <rect id="Rectangle_146296" data-name="Rectangle 146296" width="150.006" height="16.864" transform="translate(1092.597 226.226)" fill="#ebebeb"/>
+        <rect id="Rectangle_146297" data-name="Rectangle 146297" width="46.318" height="16.864" transform="translate(317 226.226)" fill="#ebebeb"/>
+        <rect id="Rectangle_146298" data-name="Rectangle 146298" width="46.318" height="16.864" transform="translate(268.558 271.357)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146299" data-name="Rectangle 146299" width="273.818" height="16.864" transform="translate(355.433 271.357)" fill="#ebebeb"/>
+        <rect id="Rectangle_146300" data-name="Rectangle 146300" width="273.818" height="16.864" transform="translate(403.062 406.69)" fill="#ebebeb"/>
+        <rect id="Rectangle_146301" data-name="Rectangle 146301" width="208.174" height="16.864" transform="translate(938.692 451.791)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146302" data-name="Rectangle 146302" width="274.585" height="16.864" transform="translate(715.234 406.69)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146303" data-name="Rectangle 146303" width="239" height="16.864" transform="translate(663.093 451.791)" fill="#ebebeb"/>
+        <rect id="Rectangle_146304" data-name="Rectangle 146304" width="79.283" height="16.864" transform="translate(399.935 451.791)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146305" data-name="Rectangle 146305" width="295.923" height="16.864" transform="translate(727.329 316.458)" fill="#ebebeb"/>
+        <rect id="Rectangle_146306" data-name="Rectangle 146306" width="188.306" height="16.864" transform="translate(1064.103 316.458)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146307" data-name="Rectangle 146307" width="295.571" height="16.864" transform="translate(674.21 271.357)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146308" data-name="Rectangle 146308" width="46.318" height="16.864" transform="translate(268.558 316.458)" fill="#ebebeb"/>
+        <rect id="Rectangle_146309" data-name="Rectangle 146309" width="46.318" height="16.864" transform="translate(268.558 361.589)" fill="#ebebeb"/>
+        <rect id="Rectangle_146310" data-name="Rectangle 146310" width="46.318" height="16.864" transform="translate(317 406.69)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146311" data-name="Rectangle 146311" width="46.318" height="16.864" transform="translate(317 451.791)" fill="#ebebeb"/>
+        <rect id="Rectangle_146312" data-name="Rectangle 146312" width="46.318" height="16.864" transform="translate(268.558 489.591)" fill="#ebebeb"/>
+        <rect id="Rectangle_146313" data-name="Rectangle 146313" width="531.441" height="16.864" transform="translate(361.042 489.591)" fill="#ebebeb"/>
+        <rect id="Rectangle_146314" data-name="Rectangle 146314" width="46.318" height="16.864" transform="translate(317 534.692)" fill="#ebebeb"/>
+        <rect id="Rectangle_146315" data-name="Rectangle 146315" width="348.757" height="16.864" transform="translate(404.583 534.692)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146316" data-name="Rectangle 146316" width="333.137" height="16.864" transform="translate(356.479 670.024)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146317" data-name="Rectangle 146317" width="233.697" height="16.864" transform="translate(402.33 579.822)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146318" data-name="Rectangle 146318" width="373.193" height="16.864" transform="translate(680.312 579.822)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146319" data-name="Rectangle 146319" width="445.481" height="16.864" transform="translate(358.825 715.155)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146320" data-name="Rectangle 146320" width="241.427" height="16.864" transform="translate(1054.297 534.692)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146321" data-name="Rectangle 146321" width="222.261" height="16.864" transform="translate(792.059 534.692)" fill="#ebebeb"/>
+        <rect id="Rectangle_146322" data-name="Rectangle 146322" width="150.006" height="16.864" transform="translate(1092.597 579.822)" fill="#ebebeb"/>
+        <rect id="Rectangle_146323" data-name="Rectangle 146323" width="46.318" height="16.864" transform="translate(317 579.822)" fill="#ebebeb"/>
+        <rect id="Rectangle_146324" data-name="Rectangle 146324" width="46.318" height="16.864" transform="translate(268.558 624.923)" fill="#a6a6a6"/>
+        <rect id="Rectangle_146325" data-name="Rectangle 146325" width="273.818" height="16.864" transform="translate(355.433 624.923)" fill="#ebebeb"/>
+        <rect id="Rectangle_146326" data-name="Rectangle 146326" width="295.923" height="16.864" transform="translate(727.329 670.024)" fill="#ebebeb"/>
+        <rect id="Rectangle_146327" data-name="Rectangle 146327" width="295.571" height="16.864" transform="translate(674.21 624.923)" fill="#1e1e1e"/>
+        <rect id="Rectangle_146328" data-name="Rectangle 146328" width="46.318" height="16.864" transform="translate(268.558 670.024)" fill="#ebebeb"/>
+      </g>
+    </g>
+    <line id="Line_7" data-name="Line 7" x2="447" transform="translate(987.5 247.5)" fill="none" stroke="#b6b6b6" stroke-width="1" opacity="0"/>
+    <line id="Line_8" data-name="Line 8" x2="447" transform="translate(987.5 303.5)" fill="none" stroke="#b6b6b6" stroke-width="1" opacity="0"/>
+    <g id="Group_73460" data-name="Group 73460" transform="translate(162.013 -104.637)">
+      <g transform="matrix(1, 0, 0, 1, -162.01, 104.64)" filter="url(#Rectangle_146340)">
+        <rect id="Rectangle_146340-2" data-name="Rectangle 146340" width="153" height="146" rx="5" transform="translate(1262 712)" fill="#1a1818"/>
+      </g>
+      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M43.853,49.334A24.667,24.667,0,1,0,19.186,24.667,24.674,24.674,0,0,0,43.853,49.334Zm21.926,5.482H56.341a29.819,29.819,0,0,1-24.976,0H21.926A21.925,21.925,0,0,0,0,76.742v2.741a8.225,8.225,0,0,0,8.222,8.222H79.483a8.225,8.225,0,0,0,8.222-8.222V76.742A21.925,21.925,0,0,0,65.779,54.816Z" transform="translate(1132.963 845.566)" fill="#ff958f"/>
+    </g>
+    <path id="Path_26659" data-name="Path 26659" d="M0,0H1415V326.887H0Z" transform="translate(0 858)" fill="#fff"/>
+    <text id="Build_a_Post_a_Project_modal_in_React._We_ll_POST_your_new_projects_to_Workyard_staging_API._" data-name="Build a &quot;Post a Project&quot; modal in React. We&apos;ll POST your new projects to &quot;Workyard&quot; staging API.
+ " transform="translate(46 885)" fill="#474748" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="26">Build a &quot;Post a Project&quot; modal in React. </tspan></text>
+    <g id="Group_73473" data-name="Group 73473" transform="translate(-7917 1560)">
+      <path id="Icon_material-remove-red-eye" data-name="Icon material-remove-red-eye" d="M11.669,6.75A10.934,10.934,0,0,0,1.5,13.684a10.924,10.924,0,0,0,20.339,0A10.934,10.934,0,0,0,11.669,6.75Zm0,11.556a4.622,4.622,0,1,1,4.622-4.622A4.624,4.624,0,0,1,11.669,18.306Zm0-7.4a2.773,2.773,0,1,0,2.773,2.773A2.77,2.77,0,0,0,11.669,10.91Z" transform="translate(7961.409 -625.117)" fill="#767e87"/>
+      <text id="_48" data-name="48" transform="translate(7991 -604)" fill="#767e87" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">48</tspan></text>
+    </g>
+    <g id="Group_73474" data-name="Group 73474" transform="translate(-7893 1590)">
+      <g id="Group_73313" data-name="Group 73313">
+        <text id="HINTS:" transform="translate(7963 -596)" fill="#1a1818" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">HINTS:</tspan></text>
+        <text id="A_mockup_Sketch_file_of_the_modal._" data-name="A mockup Sketch file of the modal.  " transform="translate(7963 -554)" fill="#1a1818" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24" xml:space="preserve">A mockup Sketch file of the modal.  </tspan></text>
+      </g>
+      <g id="Group_73307" data-name="Group 73307" transform="translate(642 168)">
+        <g id="Icon_feather-folder-minus" data-name="Icon feather-folder-minus" transform="translate(7763.909 -653.07)">
+          <rect id="Rectangle_146245" data-name="Rectangle 146245" width="99" height="21" rx="4" transform="translate(-62.909 -63.93)" fill="#272727"/>
+          <g id="Path_26638" data-name="Path 26638" transform="translate(14.792 -63.555)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M15.416,14.883a1.271,1.271,0,0,1-1.242,1.3H4.242A1.271,1.271,0,0,1,3,14.883V5.8A1.271,1.271,0,0,1,4.242,4.5h3.1L8.587,6.447h5.587a1.271,1.271,0,0,1,1.242,1.3Z" stroke="none"/>
+            <path d="M 13.91601753234863 14.68054389953613 L 13.91601753234863 7.946753978729248 L 8.587207794189453 7.946753978729248 C 8.074897766113281 7.946753978729248 7.598007678985596 7.685283660888672 7.322527885437012 7.253344058990479 L 6.523171424865723 6.000003814697266 L 4.499997615814209 6.000003814697266 L 4.499997615814209 14.68054389953613 L 13.91601753234863 14.68054389953613 M 14.17441749572754 16.18054389953613 L 4.241597652435303 16.18054389953613 C 3.555887699127197 16.18054389953613 2.999997854232788 15.59948348999023 2.999997854232788 14.88271427154541 L 2.999997854232788 5.797833919525146 C 2.999997854232788 5.081063747406006 3.555887699127197 4.500003814697266 4.241597652435303 4.500003814697266 L 7.345607757568359 4.500003814697266 L 8.587207794189453 6.446753978729248 L 14.17441749572754 6.446753978729248 C 14.86012744903564 6.446753978729248 15.41601753234863 7.027823925018311 15.41601753234863 7.744593620300293 L 15.41601753234863 14.88271427154541 C 15.41601753234863 15.59948348999023 14.86012744903564 16.18054389953613 14.17441749572754 16.18054389953613 Z" stroke="none" fill="#fafafa"/>
+          </g>
+          <text id="DESIGN_FILE" data-name="DESIGN FILE" transform="translate(-56.909 -48.93)" fill="#fff" font-size="12" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">DESIGN FILE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_73475" data-name="Group 73475" transform="translate(-7960 1661)" opacity="0.26">
+      <g id="Group_73313-2" data-name="Group 73313">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing" transform="translate(8030 -588)" fill="#1a1818" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">Lorem ipsum dolor sit amet, consetetur sadipscing</tspan></text>
+      </g>
+    </g>
+    <text id="Take_hint" data-name="Take hint" transform="translate(601 1073)" fill="#5372ff" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">Take hint</tspan></text>
+    <g id="Group_73476" data-name="Group 73476" transform="translate(0 114)">
+      <circle id="Ellipse_11615" data-name="Ellipse 11615" cx="13.5" cy="13.5" r="13.5" transform="translate(634 921)" fill="#fff"/>
+      <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M5.252,15.882.226,10.856a.773.773,0,0,1,0-1.093L1.32,8.669a.773.773,0,0,1,1.093,0L5.8,12.055,13.05,4.8a.773.773,0,0,1,1.093,0L15.236,5.9a.773.773,0,0,1,0,1.093L6.345,15.882A.773.773,0,0,1,5.252,15.882Z" transform="translate(639.568 924.157)" fill="#5372ff"/>
+    </g>
+    <line id="Line_39" data-name="Line 39" x2="1337" transform="translate(45.5 976.5)" fill="none" stroke="#c9c6c6" stroke-width="1"/>
+    <g id="Group_73477" data-name="Group 73477" transform="translate(1 51)">
+      <g id="Group_73332" data-name="Group 73332" transform="translate(-7273 1570)" opacity="0.26">
+        <g id="Group_73313-3" data-name="Group 73313">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing-2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing" transform="translate(8030 -588)" fill="#1a1818" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">Lorem ipsum dolor sit amet, consetetur sadipscing</tspan></text>
+        </g>
+      </g>
+      <text id="Take_hint-2" data-name="Take hint" transform="translate(1288 1019)" fill="#5372ff" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">Take hint</tspan></text>
+      <g id="Group_73334" data-name="Group 73334" transform="translate(-7273 1607)" opacity="0.26">
+        <g id="Group_73313-4" data-name="Group 73313">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing-3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing" transform="translate(8030 -588)" fill="#1a1818" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="24">Lorem ipsum dolor sit amet, consetetur sadipscing</tspan></text>
+        </g>
+      </g>
+      <g id="Group_73352" data-name="Group 73352" transform="translate(675 49)">
+        <circle id="Ellipse_11615-2" data-name="Ellipse 11615" cx="13.5" cy="13.5" r="13.5" transform="translate(634 921)" fill="#fff"/>
+        <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M5.252,15.882.226,10.856a.773.773,0,0,1,0-1.093L1.32,8.669a.773.773,0,0,1,1.093,0L5.8,12.055,13.05,4.8a.773.773,0,0,1,1.093,0L15.236,5.9a.773.773,0,0,1,0,1.093L6.345,15.882A.773.773,0,0,1,5.252,15.882Z" transform="translate(639.568 924.157)" fill="#5372ff"/>
+      </g>
+    </g>
+    <g id="Group_73353" data-name="Group 73353" transform="translate(-1325 -792)">
+      <g id="Group_73345" data-name="Group 73345" transform="translate(1347 842)">
+        <g id="Rectangle_146247" data-name="Rectangle 146247" fill="none" stroke="#980514" stroke-width="1">
+          <rect width="178" height="52" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="177" height="51" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Leave" transform="translate(1403.751 877.487)" fill="#980514" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Leave</tspan></text>
+    </g>
+  </g>
+</svg>
