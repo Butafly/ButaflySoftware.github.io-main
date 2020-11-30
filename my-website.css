@@ -34,6 +34,13 @@ nav {
   
 }
 
+#search {
+  width: 100%;
+  height: 70vh;
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
+
 #GOT {
   text-align: left;
   font-weight: lighter;
@@ -275,6 +282,27 @@ height: auto;
 }
 /*end h2 glitch*/
 
+#search > div.jumbotron {
+    align-items: center;
+    justify-content: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px 0;
+    text-align: center;
+    background-color:none;
+    display: flex;
+    margin-bottom: 42px;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+
+}
+
 #hero > div.jumbotron {
  
 
@@ -282,6 +310,17 @@ height: auto;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+}
+
+#searchBtn {
+  position: absolute;
+  right: 206px;
+  padding: 20px 32px;
+
+}
+
+div.jumbotron > .dropdown-toggle-split{
+  padding: 14px 30px;
 }
 
 .jumbotron {
