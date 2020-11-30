@@ -515,11 +515,12 @@
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_1)">
       <path id="Intersection_1-2" data-name="Intersection 1" d="M114.884,308q-2.5-2.433-4.884-5V121.676q2.218-2.392,4.553-4.676H300.217q4.065,3.977,7.783,8.289v174.1q-3.866,4.485-8.114,8.612Z" transform="translate(1087 543)" fill="url(#pattern-6)"/>
     </g>
-    <g id="Group_73485" data-name="Group 73485" transform="translate(-76 -833)">
+    <g id="Group_73485" data-name="Group 73485" transform="translate(-125 -833)">
       <g id="Group_73345-2" data-name="Group 73345" transform="translate(1347 842)">
-        <rect id="Rectangle_146247-2" data-name="Rectangle 146247" width="113" height="52" rx="4" fill="#f15868"/>
+        <rect id="Rectangle_146247-2" data-name="Rectangle 146247" width="173" height="52" rx="4" fill="#f15868"/>
       </g>
-      <text id="LIVE" transform="translate(1374.052 877.487)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">LIVE</tspan></text>
+      <text id="LIVE" transform="translate(1371.104 877.487)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">LIVE</tspan></text>
+      <text id="_50:40" data-name="50:40" transform="translate(1433.104 877.487)" fill="#fff" font-size="26" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">50:40</tspan></text>
     </g>
   </g>
 </svg>
