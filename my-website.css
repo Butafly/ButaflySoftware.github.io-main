@@ -453,6 +453,7 @@ a.link-btn {
 
 /*section anime*/
 
+
 #anime {
   
   background-color:#100725;
@@ -471,8 +472,8 @@ a.link-btn {
 
 #anime > div > div > div:nth-child(1) > img{
  
-  height: 22em;
-  width: 26em;
+  height: auto;
+  width: 60rem;
   position: relative;
   top: 24em;
   left: 0em;
@@ -514,14 +515,20 @@ a.link-btn {
 }
 
 #anime > div > div > div:nth-child(2) > div{
-  color:#6cf1d2;
-  top: 136px;
-  right: 287px;
+    color:#6cf1d2;
+    right: 287px;
+    top: -433px;
+    left: 699px;
+    text-align: left;
+    font-size: 64px;
+    font-weight: 800;
+    width: 511px;
+    text-transform: uppercase;
 }
 
 #anime > div {
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 28px;
+ 
   
 }
 /*end anime*/
