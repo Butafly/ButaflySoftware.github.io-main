@@ -27,9 +27,9 @@ nav {
 }
 
 #hero {
-    width: 100%;
-    margin-top: 77px;
-    margin-bottom: 125px;
+  width: 100%;
+  margin-top: 77px;
+  margin-bottom: 125px;
   
 }
 
@@ -37,16 +37,50 @@ nav {
   width: 100%;
  
 }
+p.sales {
 
-#GOT {
   text-align: left;
-  font-weight: lighter;
-  animation: 375ms infinite;
-  transform: translate(0.0125em, 0.025em);
-  text-shadow: 0.05em 0 0 rgba(15, 14, 14, 0.75),
-  -0.025em -0.05em 0 rgba(8, 8, 8, 0.75),
-  0.025em 0.05em 0 rgba(25, 25, 26, 0.75);
-  animation: 1.5s infinite linear alternate-reverse;
+  font-size: 20px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 15px 15px 15px 15px;
+  font-weight: 500;
+ 
+}
+
+p.sales{
+  text-decoration: none;
+  color: #5c70ff;
+  width: 172px;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+p.sales:after {
+  content: url(images/people/all\ together.png);
+  transform: scale(0.3);
+  position: absolute;
+  opacity: 0;  
+  top: -500px;
+  left:0px;
+  transition: 0.5s;
+  right: -800px;
+}
+
+p.sales:hover{
+  text-decoration: underline;
+  padding-right: 24px;
+  padding-left:8px;
+}
+
+p.sales:hover:after {
+  content: url(images/people/all\ together.png);
+  top: -500px;
+  left: 0px;
+  opacity: 1;
+  right: -300px;
 }
 
 h1 {
