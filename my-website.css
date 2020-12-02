@@ -332,8 +332,11 @@ div.jumbotron > .dropdown-toggle-split{
 .jumbotron {
     background: rgb(255 255 255 / 0%);
     backdrop-filter: blur(0px);
+    border: 1px solid #cac6c6;
+    /*
     box-shadow: 2px 0px 20px 0px #a0a0a0;
-    padding: 10px 0;
+    */
+    padding: 24px 0;
     text-align: center;
     background-color:none;
     display: flex;
@@ -354,7 +357,7 @@ div.jumbotron > .dropdown-toggle-split{
 .card-heading {
     width: 100%;
     text-align: center;
-    margin-top:-35px;
+    margin-top:13px;
     color: #888;
     font-size: 28px;
     line-height: 120%;
@@ -417,7 +420,7 @@ img {
 }
 
 #hero > div > div {
-    margin-top:2em;
+    margin-top:1em;
 }
 
 .btn-outline-dark {
