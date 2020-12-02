@@ -27,10 +27,9 @@ nav {
 }
 
 #hero {
-  width: 100%;
-  height: 70vh;
-  margin-top: 125px;
-  margin-bottom: 125px;
+    width: 100%;
+    margin-top: 77px;
+    margin-bottom: 125px;
   
 }
 
@@ -51,12 +50,13 @@ nav {
 }
 
 h1 {
-    text-align: center;
-    margin-bottom: 5rem;
-    font-weight: 900;
-    line-height: 92px;
-    font-size: 92px;
-    color:#24000B;
+  letter-spacing: -2px;
+  text-align: left;
+  font-weight: 600;
+  width: 56%;
+  line-height: 85px;
+  font-size: 92px;
+  color: #24000B;
 }
 
 
@@ -308,14 +308,6 @@ height: auto;
 
 }
 
-#hero > div.jumbotron {
- 
-
-  padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
 
 #searchBtn {
   background-color: #1c1c1d!important;
@@ -330,12 +322,13 @@ div.jumbotron > .dropdown-toggle-split{
 }
 
 .jumbotron {
-    background: rgb(255 255 255 / 0%);
-    backdrop-filter: blur(0px);
-    border: 1px solid #cac6c6;
-    /*
-    box-shadow: 2px 0px 20px 0px #a0a0a0;
-    */
+    width: 70%;
+    text-align: left;
+    color: #545b62;
+    font-size: 24px;
+    line-height: 120%;
+    padding: 0 var(--bodyPaddingRight) 0 var(--bodyPaddingLeft);
+    background: none;
     padding: 24px 0;
     text-align: center;
     background-color:none;
@@ -344,24 +337,31 @@ div.jumbotron > .dropdown-toggle-split{
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
+    
 }
 
 .bg-primary {
     background:none!important;
 }
 
+#hero > div > div > a > img {
+    width:11px;
+    position: relative;
+    top: 0px;
+    left: 145px;
+    margin-left: 8px;
+    stroke-width: 2;
+    fill: none;
+    stroke: currentColor;
+}
+
 .card-heading {
-    width: 100%;
-    text-align: center;
-    margin-top:13px;
-    color: #888;
-    font-size: 28px;
-    line-height: 120%;
-    font-weight: 500;
+  width: 81%;
+  text-align: left;
+  margin-top: 13px;
+  color: #545b62;
+  font-size: 24px;
+  line-height: 120%;
 }
 
 .button.button {
@@ -421,6 +421,7 @@ img {
 
 #hero > div > div {
     margin-top:1em;
+    display: flex!important;
 }
 
 .btn-outline-dark {
@@ -438,6 +439,8 @@ img {
 }
 
 a.link-btn {
+    font-weight: 500;
+    font-size: 16px;
     height: 42px;
     margin-right: 0;
     padding-right: 0;
@@ -702,7 +705,12 @@ img.grid-video-img {
     transform:scale(1.1);
   }
 
-.bg-light{
+  
+
+#nav-talents{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 100%;
     background-color: #fcfcfc !important;
     color: whitesmoke;
   }
