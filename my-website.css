@@ -320,7 +320,7 @@ height: auto;
 #searchBtn {
   background-color: #1c1c1d!important;
   position: absolute;
-  right: 206px;
+  right: 15px;
   padding: 15px 32px;
 
 }
@@ -330,6 +330,9 @@ div.jumbotron > .dropdown-toggle-split{
 }
 
 .jumbotron {
+    background: rgb(255 255 255 / 0%);
+    backdrop-filter: blur(0px);
+    box-shadow: 2px 0px 20px 0px #a0a0a0;
     padding: 10px 0;
     text-align: center;
     background-color:none;
@@ -370,9 +373,9 @@ div.jumbotron > .dropdown-toggle-split{
 
 
 #mc-embedded-subscribe:hover {
-  background-color: whitesmoke!important;
+  background-color: rgb(22, 21, 21)!important;
   animation: got 0.5s ease-out;
-  color:black!important;
+  color:rgb(245, 244, 244)!important;
   font-weight: 400;
 }
 
@@ -386,7 +389,7 @@ div.jumbotron > .dropdown-toggle-split{
   margin: 0 auto;
   outline:none;
   background:none!important;
-  color: whitesmoke;
+  color: rgb(31, 29, 29)!important;
   width: 16vw;
   padding: 0px 0px 0px 0px;
   height: 53px!important;
@@ -447,6 +450,81 @@ a.link-btn {
     height: 100%;
   
 }
+
+/*section anime*/
+
+#anime {
+  
+  background-color:#100725;
+  width: 100%;
+  height: 100vh;
+  margin-bottom: 157px;
+}
+
+#anime > div > div.col-sm-8 > img {
+  width: 17em;
+  position: relative;
+  top: 21em;
+  left: -9em;
+
+}
+
+#anime > div > div > div:nth-child(1) > img{
+ 
+  height: 22em;
+  width: 26em;
+  position: relative;
+  top: 24em;
+  left: 0em;
+
+}
+#anime > div > div > div:nth-child(3) > img{
+ 
+  height: 22em;
+  width: 26em;
+  position: relative;
+  top: 24em;
+  left: 24em;
+
+}
+
+#anime > div > div > div:nth-child(3) > p {
+  text-align: left;
+  top: 24px;
+  z-index: 1;
+  left: 302px;
+  position: relative;
+  z-index: 1;
+  /* margin-top: -15px; */
+  margin-bottom: 0;
+  color: #64fdd9;
+  /* margin-bottom: 36px; */
+  /* margin-left: 0; */
+  font-family: Inter,sans-serif;
+  /* color: #262626; */
+  font-size: 56px;
+  line-height: 100%;
+  font-weight: 700;
+  letter-spacing: -.02em;
+}
+
+
+#anime > div > div.col-6.col-md-4 > div.blur{
+  box-shadow: none;
+}
+
+#anime > div > div > div:nth-child(2) > div{
+  color:#6cf1d2;
+  top: 136px;
+  right: 287px;
+}
+
+#anime > div {
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+/*end anime*/
  #mockup-3 {
   width: 100%;
   height: 100%;
@@ -1076,11 +1154,18 @@ div.container-body-tab {
     padding: 3em;
 }
 #form-2 {
-  height: 100vh;
+  height: auto;
   margin: 8em 0em 0em 0em;
   width: 70%;
   margin: 0 auto;
-  margin-top: 15rem;
+  margin-top: 21rem;
+}
+
+#mc_embed_signup > img {
+  width: 23em;
+    position: relative;
+    right: 400px;
+    top: -214px;
 }
 
 #form-2 > div {
@@ -1100,7 +1185,23 @@ div.container-body-tab {
   font-size: 1.9rem;
   pad: 10px;
 }
+/*form citie coder*/
 
+#form > div.col-sm-8 > img {
+  width: 18em;
+  position: relative;
+  top: -248px;
+  left: -281px;
+}
+
+#form-2 > div.col-sm-8 > img {
+  width: 21em;
+  position: relative;
+  top: -248px;
+  left: -281px;
+}
+
+/*end kitie coder footer*/
 #EMAIL.email{
  
   text-align: left;
