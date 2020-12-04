@@ -37,7 +37,7 @@ nav {
   width: 100%;
  
 }
-p.sales {
+a.sales {
 
   text-align: left;
   font-size: 20px;
@@ -48,7 +48,7 @@ p.sales {
  
 }
 
-p.sales{
+a.sales{
   text-decoration: none;
   color: #5c70ff;
   width: 172px;
@@ -58,7 +58,7 @@ p.sales{
   transition: 0.5s;
 }
 
-p.sales:after {
+a.sales:after {
   content: url(images/people/all\ together.png);
   transform: scale(0.3);
   position: absolute;
@@ -69,13 +69,13 @@ p.sales:after {
   right: -800px;
 }
 
-p.sales:hover{
+a.sales:hover{
   text-decoration: underline;
   padding-right: 24px;
   padding-left:8px;
 }
 
-p.sales:hover:after {
+a.sales:hover:after {
   content: url(images/people/all\ together.png);
   top: -500px;
   left: 0px;
