@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
+    overflow-y: hidden;
     overflow-x: hidden;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
