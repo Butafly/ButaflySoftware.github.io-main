@@ -327,6 +327,18 @@ img {
     display: inline-block;
 }
 
+#form > div > div.col-sm-12 > img {
+    width: 150px;
+    height: auto;
+}
+
+#form > div > div.col-sm-12 {
+    position: relative;
+    top: -156px;
+    padding: 0;
+    margin: 0;
+}
+
 #hero > div > div > button {
     border-radius: 5px;
 }
@@ -981,7 +993,6 @@ body > nav > form > button:hover {
   #mc_embed_signup_scroll {
     padding: 6px;
   }
-  
 }
 
 @media screen and (max-width: 600px){
@@ -996,7 +1007,7 @@ body > nav > form > button:hover {
   #form > div > div.col-sm-12 > img {
     width: 300px;
     height: 300px;
-    margin-top: -14%;
+    margin: 43px 15px 15px 15px;
   }
 }
 
@@ -1014,9 +1025,17 @@ body > nav > form > button:hover {
     padding: 0;
   }
 }
-/*-----end form mobile*/
+/*-----end form mobile---------*/
+/*------Form for web-----*/
 
 
+
+
+
+
+
+
+/*-----end form web---------*/
 @media screen and (min-width: 1280px){
 .div-block-299 {
     position: relative;
@@ -1185,11 +1204,10 @@ div.container-body-tab {
 }
 
 #form {
-    height: 100vh;
-    margin: 8em 0em 0em 0em;
-    width: 70%;
+    
+    width: 100%;
     margin: 0 auto;
-    margin-top: 8rem;
+    margin-top: 5rem;
 }
 
 #form label {
@@ -1229,8 +1247,8 @@ div.container-body-tab {
     padding: 0 1.5rem;
     transition: background .3s ease-out, border .3s ease-out;
     height: 52px;
-    width: 55%;
-    max-width: 100%;
+    width: 50%;
+   
 
 }
 
@@ -1248,7 +1266,7 @@ div.container-body-tab {
     padding: 0 1.5rem!important;
     transition: background .3s ease-out, border .3s ease-out;
     height: 52px!important;
-    width: 100%!important;
+    width: 50%;
     max-width: 100%;
 }
 .wpcf7-form label.error {
