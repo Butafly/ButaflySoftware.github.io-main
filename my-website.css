@@ -328,9 +328,19 @@ img {
 }
 
 #form > div > div.col-sm-12 > img {
-    width: 150px;
+    width: 100%;
     height: auto;
 }
+
+#mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;
+  clear: left;
+  font: 14px Helvetica,Arial,sans-serif;
+  width: 100%;
+  padding: 120px;
+  background-size: 526px 550px;
+  border-radius: 16px;
+  height: 40vh;
+  margin-bottom: 22px;}
 
 #form > div > div.col-sm-12 {
     position: relative;
@@ -1006,7 +1016,7 @@ body > nav > form > button:hover {
   }
   #form > div > div.col-sm-12 > img {
     width: 300px;
-    height: 300px;
+    height: auto;
     margin: 43px 15px 15px 15px;
   }
 }
