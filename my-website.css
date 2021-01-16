@@ -964,6 +964,58 @@ body > nav > form > button:hover {
     top: 70px;
     width: 40%;
 }}
+/*------Mailchimp Form mobile------*/
+@media screen and (max-width: 600px){
+  #mc_embed_signup {
+    margin: 0;
+    padding: 0!important;
+  }
+  #mc-embedded-subscribe {
+    background-color: #24000B!important;
+    color:whitesmoke!important;
+  }
+  #mce-EMAIL{
+    width:100% !important;
+    margin-bottom: 13px!important;
+  }
+  #mc_embed_signup_scroll {
+    padding: 6px;
+  }
+  
+}
+
+@media screen and (max-width: 600px){
+  #form > div.col-sm-12 {
+    width: 100%;
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 0;
+    padding: 0;
+    margin: 0;
+  }
+  #form > div > div.col-sm-12 > img {
+    width: 300px;
+    height: 300px;
+    margin-top: -14%;
+  }
+}
+
+@media screen and (max-width: 600px){
+  #form {
+    width: 100%!important;
+    margin:0 !important ;
+    margin-top: 4rem!important ;
+  }
+  #form > div {
+    margin:0;
+    padding: 0;
+  }
+  h4{
+    padding: 0;
+  }
+}
+/*-----end form mobile*/
+
 
 @media screen and (min-width: 1280px){
 .div-block-299 {
@@ -1196,7 +1248,7 @@ div.container-body-tab {
     padding: 0 1.5rem!important;
     transition: background .3s ease-out, border .3s ease-out;
     height: 52px!important;
-    width: 55%!important;
+    width: 100%!important;
     max-width: 100%;
 }
 .wpcf7-form label.error {
