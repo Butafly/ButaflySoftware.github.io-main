@@ -419,9 +419,10 @@ body > footer > div {
 body > footer > div > div > a{
     color: #a9a9a9;
     text-decoration: none;
+    pointer-events: none;
 }
 
-body > footer > div.footer-copyright.text-center.py-3 {
+body > footer > div > div {
   font-size:14px;
 }
 /*end footer*/
