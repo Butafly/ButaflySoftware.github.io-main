@@ -396,6 +396,36 @@ a.link-btn {
     height: 100%;
   
 }
+/*footer*/
+footer{
+    display: block;
+    background-color: #121e1f;
+    color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+.pt-4 {
+  padding-top:0px!important;
+  height: 57px;
+}
+body > footer > div {
+    display: flex!important;
+    align-items: center;
+    justify-content: center;
+}
+
+body > footer > div > div > a{
+    color: #a9a9a9;
+    text-decoration: none;
+}
+
+body > footer > div.footer-copyright.text-center.py-3 {
+  font-size:14px;
+}
+/*end footer*/
+
 
 /*section anime*/
 
